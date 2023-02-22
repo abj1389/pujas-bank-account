@@ -1,0 +1,10 @@
+.ba__button{
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
