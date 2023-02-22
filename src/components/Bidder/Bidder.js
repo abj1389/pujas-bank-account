@@ -4,7 +4,7 @@ const Bidder = ({name, addBid}) => {
 
 
     return (
-        <button onClick={addBid} className="ba__button">
+        <button onClick={addBid} className="bidder__button">
             {name} quiere pujar 5€
         </button>
     );
